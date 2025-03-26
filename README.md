@@ -12,6 +12,8 @@
 
 ## How to Use
 
+[Download String Copier from the Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Hocti.string-copier)
+
 1. Install the **String Copier** extension in Visual Studio Code.
 2. Open a file containing single-line strings.
 3. Right-click on any part of the string you want to copy.
