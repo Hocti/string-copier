@@ -1,7 +1,7 @@
 {
   "name": "string-copier",
   "displayName": "string-copier",
-  "description": "adds a Copy package name button to both the file tab and the explorer context menu",
+  "description": "copy a string without manually highlighting the entire text",
   "version": "0.0.1",
   "categories": [
     "Other"
